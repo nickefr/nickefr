@@ -25,6 +25,8 @@ https://github.com/nickefr/nickefr/assets/73330890/5cf4686b-1a8f-4298-a3eb-b2c13
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="35" height="35">](https://codepen.io/nickefr-the-flexboxer) &nbsp;
 [<img src="https://nickefr.files.wordpress.com/2022/10/nlogo.jpg" alt="WordPress" width="45" height="45">](https://nickefr.wordpress.com/) &nbsp; 
 
+[![Twitter](https://img.shields.io/twitter/follow/EfrNick?style=for-the-badge&logo=twitter&color=1da1f2&label=Follow%20me%20on%20Twitter)](https://twitter.com/EfrNick)
+
 
 
 ## Languages and Tools:
