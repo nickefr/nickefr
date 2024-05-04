@@ -11,10 +11,17 @@ https://github.com/nickefr/nickefr/assets/73330890/5cf4686b-1a8f-4298-a3eb-b2c13
 
 
 
+<a href="https://www.example.com">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkSo5tuHnjl6vpxysoraUpO3ifaL1O85saMwNJ9HzXA&s" width="40" height="40"></a>
+Διεθνές Πανεπιστήμιο της Ελλάδος
 
+[![Living in Greece](https://img.shields.io/badge/Living🏛️%20in-Greece-blue.svg)](https://en.wikipedia.org/wiki/Greece)
 
+[![Studied at International University of Greece - Based in Thessaloniki](https://img.shields.io/badge/🎓%20at-International%20University%20of%20Greece%20%E2%80%93%20Based%20in%20Thessaloniki-blue)](https://www.ihu.gr/)
 
+[![Tμήμα Μηχανικών Πληροφορικής και Ηλεκτρονικών Συστημάτων](https://img.shields.io/badge/🌐%20at-Τμήμα%20Μηχανικών%20Πληροφορικής%20και%20Ηλεκτρονικών%20Συστημάτων%20-red)](https://www.iee.ihu.gr/)
 
+[![Tμήμα Μηχανικών Πληροφορικής και Ηλεκτρονικών Συστημάτων](https://img.shields.io/badge/🖥️%20I'm-Software%20Engineer%20-green)](https://www.iee.ihu.gr/)
 
 ## Connect with me:
 
