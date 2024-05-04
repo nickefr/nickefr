@@ -3,9 +3,12 @@
 
 
 
+https://github.com/nickefr/nickefr/assets/73330890/a94a3cdb-9eb8-459f-b253-34aba7affe8e
 
 
-https://github.com/nickefr/nickefr/assets/73330890/5cf4686b-1a8f-4298-a3eb-b2c1360cc220
+
+
+
 
 
 
